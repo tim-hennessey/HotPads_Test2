@@ -1,12 +1,14 @@
-var app = app || {}; 
+var app = app || {};
 
 
-app.Banner = (function () { 
+app.Banner = (function () {
 
     // --------------------------------------------------------------------------------------
     // initialize
     function initialize() {
-        dispatchEvent(new Event("READY"));
+        var event = document.createEvent('Event');
+        event.initEvent('READY', true, true);
+        document.dispatchEvent(event);
         document.getElementById('button-exit').addEventListener('click', handleExit, false);
     }
 
@@ -18,8 +20,8 @@ app.Banner = (function () {
 
     // --------------------------------------------------------------------------------------
     // Publicly accessible methods and properties
-    return { 
-        initialize:initialize    
+    return {
+        initialize:initialize
     }
-    
+
 })();
