@@ -42,8 +42,8 @@ app.Animation = (function () {
     // Starts the animation
     function start() {
         tl.staggerFrom(circle, .5, {opacity: 0, repeat: 5, yoyo: true, delay: 0.25}, 0.2)
-            .from(bubble, .75, {height: "-=50", width: "-=125", ease: Elastic.easeOut.config(.3, .2)})
-            .to(txt1, .25, {opacity: 1, y: "-=10", x: "+=10"}, "-=.75")
+            .from(bubble, .75, {height: 53, width: 99, ease: Elastic.easeOut.config(.3, .2)})
+            .to(txt1, .5, {opacity: 1, y: "-=10", x: "+=10", ease: Elastic.easeOut.config(.5, .2)}, "-=.7")
             .to(cta, .5, {opacity: 1}, "-=.75");
     }
 

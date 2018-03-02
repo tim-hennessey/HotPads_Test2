@@ -1,0 +1,136 @@
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #555;
+}
+
+#banner {
+    background: #78c2b3;
+    position: absolute;
+    overflow: hidden;
+    width: $banner-width;
+    height: $banner-height;
+    left: 50%;
+    top: 50%;
+    margin-left: -$banner-width / 2;
+    margin-top: -$banner-height / 2;
+
+    #button-exit {
+        background-color: rgba(255, 255, 255, 0);
+        cursor: pointer;
+        height: 100%;
+        left: 0px;
+        position: absolute;
+        top: 0px;
+        width: 100%;
+    }
+
+    #cta {
+        bottom: 20px;
+        right: 20px;
+        background: #ffffff;
+        height:24px;
+        width:88px;
+        opacity:0;
+        border-radius:5px;
+        position: absolute;
+
+        #cta_txt {
+            position: absolute;
+        }
+
+        #cta_ovr_txt {
+            opacity:0;
+            position: absolute;
+        }
+    }
+
+    #txt1 {
+        top: 44px;
+        left: 32px;
+        opacity:0;
+        position: absolute;
+    }
+
+    #logo {
+        bottom: 20px;
+        left: 17px;
+        position: absolute;
+    }
+
+    #loader {
+        top: 95px;
+        left: 45px;
+        position: absolute;
+
+        #circle1 {
+            top: 0px;
+            left: 0px;
+            position: absolute;
+        }
+
+        #circle2 {
+            top: 0px;
+            left: 20px;
+            position: absolute;
+        }
+
+        #circle3 {
+            top: 0px;
+            left: 40px;
+            position: absolute;
+        }
+    }
+
+    .circle {
+        width: 13px;
+        height: 13px;
+        background: #ffffff;
+        -moz-border-radius: 6.5px;
+        -webkit-border-radius: 6.5px;
+        border-radius: 6.5px;
+        position: absolute;
+    }
+
+    .triangle-border {
+        bottom: 100px;
+        left: 18px;
+        height: 106px;
+        width: 250px;
+        position: absolute;
+        border: 7px solid #ffffff;
+        transform: translate3d(0, 0, 0.1px);
+    }
+
+    .triangle-border:before {
+        content: "";
+        position: absolute;
+        bottom: -35px; /* value = - border-top-width - border-bottom-width */
+        left: 18px; /* controls horizontal position */
+        border: 0;
+        border-left-width: 45px;
+        border-bottom-width: 35px;
+        border-style: solid;
+        border-color: transparent #ffffff;
+        /* reduce the damage in FF3.0 */
+        display: block;
+        width: 0;
+    }
+
+    /* creates the smaller  triangle */
+    .triangle-border:after {
+        content: "";
+        position: absolute;
+        bottom: -21px; /* value = - border-top-width - border-bottom-width */
+        left: 25px; /* value = (:before left) + (:before border-left) - (:after border-left) */
+        border: 0;
+        border-left-width: 25px;
+        border-bottom-width: 21px;
+        border-style: solid;
+        border-color: transparent #78c2b3;
+        /* reduce the damage in FF3.0 */
+        display: block;
+        width: 0;
+    }
+
+}

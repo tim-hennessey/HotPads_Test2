@@ -5,7 +5,7 @@ body {
 }
 
 #banner {
-    background: #ff6633;
+    background: #e36c44;
     position: absolute;
     overflow: hidden;
     width: $banner-width;
@@ -46,8 +46,8 @@ body {
     }
 
     #txt1 {
-        top: 46px;
-        left: 32px;
+        top: 65px;
+        left: 30px;
         opacity:0;
         position: absolute;
     }
@@ -95,8 +95,8 @@ body {
     .triangle-border {
         bottom: 100px;
         left: 18px;
-        height: 103px;
-        width: 224px;
+        height: 95px;
+        width: 250px;
         position: absolute;
         border: 7px solid #ffffff;
         transform: translate3d(0, 0, 0.1px);
@@ -127,7 +127,7 @@ body {
         border-left-width: 25px;
         border-bottom-width: 21px;
         border-style: solid;
-        border-color: transparent #ff6633;
+        border-color: transparent #e36c44;
         /* reduce the damage in FF3.0 */
         display: block;
         width: 0;
