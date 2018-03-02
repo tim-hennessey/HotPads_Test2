@@ -25,7 +25,7 @@ app.Animation = (function () {
         TweenMax.set(bubble, {transformOrigin: 'bottom left'});
 
         buttonExit.addEventListener('mouseover', function () {
-            TweenMax.to(cta, .25, {backgroundColor: "#78c2b3"});
+            TweenMax.to(cta, .25, {backgroundColor: "#44c3b4"});
             TweenMax.set(cta_txt, {opacity: 0});
             TweenMax.set(cta_ovr_txt, {opacity: 1});
         });

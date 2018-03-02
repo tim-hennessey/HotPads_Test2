@@ -5,7 +5,7 @@ body {
 }
 
 #banner {
-    background: #e36c44;
+    background: #ff6b44;
     position: absolute;
     overflow: hidden;
     width: $banner-width;
@@ -127,7 +127,7 @@ body {
         border-left-width: 25px;
         border-bottom-width: 21px;
         border-style: solid;
-        border-color: transparent #e36c44;
+        border-color: transparent #ff6b44;
         /* reduce the damage in FF3.0 */
         display: block;
         width: 0;
