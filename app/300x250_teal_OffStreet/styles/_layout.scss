@@ -25,6 +25,13 @@ body {
         width: 100%;
     }
 
+    #curtain {
+        background: #44c3b4;
+        position: absolute;
+        width: $banner-width;
+        height: $banner-height;
+    }
+
     #cta {
         bottom: 20px;
         right: 20px;

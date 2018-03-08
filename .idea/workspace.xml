@@ -2,36 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d35d5221-ea5c-4033-b857-2413c561efee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_365Night/images/logo.png" afterPath="$PROJECT_DIR$/app/300x250_orng_365Night/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/images/logo.png" afterPath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_Ghost/images/logo.png" afterPath="$PROJECT_DIR$/app/300x250_orng_Ghost/images/logo.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_orng_365Night/scripts/Banner.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_365Night/images/cta_ovr_txt.png" afterPath="$PROJECT_DIR$/app/300x250_orng_365Night/images/cta_ovr_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_365Night/images/cta_txt.png" afterPath="$PROJECT_DIR$/app/300x250_orng_365Night/images/cta_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/images/cta_ovr_txt.png" afterPath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/images/cta_ovr_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/images/cta_txt.png" afterPath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/images/cta_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/images/txt1.png" afterPath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/images/txt1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_Ghost/images/cta_ovr_txt.png" afterPath="$PROJECT_DIR$/app/300x250_orng_Ghost/images/cta_ovr_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_Ghost/images/cta_txt.png" afterPath="$PROJECT_DIR$/app/300x250_orng_Ghost/images/cta_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_Ghost/images/txt1.png" afterPath="$PROJECT_DIR$/app/300x250_orng_Ghost/images/txt1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/images/cta_ovr_txt.png" afterPath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/images/cta_ovr_txt.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/images/cta_txt.png" afterPath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/images/cta_txt.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/images/logo.png" afterPath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_Benefits/images/cta_ovr_txt.png" afterPath="$PROJECT_DIR$/app/300x250_teal_Benefits/images/cta_ovr_txt.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_Benefits/images/cta_txt.png" afterPath="$PROJECT_DIR$/app/300x250_teal_Benefits/images/cta_txt.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_Benefits/images/logo.png" afterPath="$PROJECT_DIR$/app/300x250_teal_Benefits/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_BreakUp/images/logo.png" afterPath="$PROJECT_DIR$/app/300x250_teal_BreakUp/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_DMs/images/logo.png" afterPath="$PROJECT_DIR$/app/300x250_teal_DMs/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_OffStreet/images/logo.png" afterPath="$PROJECT_DIR$/app/300x250_teal_OffStreet/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_Swipe/images/logo.png" afterPath="$PROJECT_DIR$/app/300x250_teal_Swipe/images/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_365Night/index.html" afterPath="$PROJECT_DIR$/app/300x250_orng_365Night/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_365Night/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_orng_365Night/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_365Night/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/300x250_orng_365Night/styles/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/index.html" afterPath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/300x250_orng_DogFriendly/styles/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_Ghost/index.html" afterPath="$PROJECT_DIR$/app/300x250_orng_Ghost/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_Ghost/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_orng_Ghost/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_Ghost/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/300x250_orng_Ghost/styles/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/index.html" afterPath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/styles/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_Benefits/index.html" afterPath="$PROJECT_DIR$/app/300x250_teal_Benefits/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_Benefits/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_teal_Benefits/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_Benefits/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/300x250_teal_Benefits/styles/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_BreakUp/index.html" afterPath="$PROJECT_DIR$/app/300x250_teal_BreakUp/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_BreakUp/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_teal_BreakUp/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_BreakUp/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/300x250_teal_BreakUp/styles/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_DMs/index.html" afterPath="$PROJECT_DIR$/app/300x250_teal_DMs/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_DMs/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_teal_DMs/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_DMs/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/300x250_teal_DMs/styles/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_OffStreet/index.html" afterPath="$PROJECT_DIR$/app/300x250_teal_OffStreet/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_OffStreet/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_teal_OffStreet/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_OffStreet/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/300x250_teal_OffStreet/styles/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_Swipe/index.html" afterPath="$PROJECT_DIR$/app/300x250_teal_Swipe/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_Swipe/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_teal_Swipe/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_teal_Swipe/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/300x250_teal_Swipe/styles/_layout.scss" />
     </list>
@@ -54,51 +61,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/300x250_teal_Benefits/scripts/Animation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/300x250_teal_BreakUp/scripts/Animation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/300x250_teal_DMs/scripts/Animation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/300x250_teal_OffStreet/scripts/Animation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Animation.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/300x250_teal_Swipe/scripts/Animation.js">
+        <entry file="file://$PROJECT_DIR$/app/300x250_orng_365Night/scripts/Animation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="675">
+              <caret line="45" column="39" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -116,19 +83,28 @@
         <option value="$PROJECT_DIR$/app/300x250/index.html" />
         <option value="$PROJECT_DIR$/app/300x250/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/300x250/scripts/Animation.js" />
-        <option value="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/300x250_orng_365Night/styles/_layout.scss" />
+        <option value="$PROJECT_DIR$/app/300x250_orng_365Night/index.html" />
+        <option value="$PROJECT_DIR$/app/300x250_orng_DogFriendly/index.html" />
+        <option value="$PROJECT_DIR$/app/300x250_orng_Ghost/index.html" />
+        <option value="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/index.html" />
+        <option value="$PROJECT_DIR$/app/300x250_teal_Benefits/index.html" />
+        <option value="$PROJECT_DIR$/app/300x250_teal_BreakUp/index.html" />
+        <option value="$PROJECT_DIR$/app/300x250_teal_DMs/index.html" />
+        <option value="$PROJECT_DIR$/app/300x250_teal_OffStreet/index.html" />
+        <option value="$PROJECT_DIR$/app/300x250_teal_Swipe/index.html" />
         <option value="$PROJECT_DIR$/app/300x250_orng_DogFriendly/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/300x250_orng_Ghost/styles/_layout.scss" />
+        <option value="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/300x250_teal_Benefits/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/300x250_teal_BreakUp/styles/_layout.scss" />
-        <option value="$PROJECT_DIR$/app/300x250_teal_Swipe/styles/_layout.scss" />
-        <option value="$PROJECT_DIR$/app/300x250_teal_OffStreet/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/300x250_teal_DMs/styles/_layout.scss" />
-        <option value="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/scripts/Animation.js" />
+        <option value="$PROJECT_DIR$/app/300x250_teal_OffStreet/styles/_layout.scss" />
+        <option value="$PROJECT_DIR$/app/300x250_teal_Swipe/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/300x250_orng_365Night/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/300x250_orng_DogFriendly/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/300x250_orng_Ghost/scripts/Animation.js" />
+        <option value="$PROJECT_DIR$/app/300x250_orng_OtherPlaces/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/300x250_teal_Benefits/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/300x250_teal_BreakUp/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/300x250_teal_DMs/scripts/Animation.js" />
@@ -146,9 +122,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="687" />
-    <option name="y" value="63" />
-    <option name="width" value="1279" />
+    <option name="x" value="348" />
+    <option name="y" value="58" />
+    <option name="width" value="1237" />
     <option name="height" value="1300" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -176,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -248,8 +225,22 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_teal_OffStreet" />
+              <option name="myItemId" value="HotPads_Test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HotPads_Test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="300x250_orng_365Night" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,151 +258,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_teal_OffStreet" />
+              <option name="myItemId" value="300x250_orng_365Night" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_teal_DMs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_teal_DMs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_teal_BreakUp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_teal_BreakUp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_teal_Benefits" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="300x250_teal_Benefits" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotPads_Test2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -429,18 +285,19 @@
       <option name="presentableId" value="Default" />
       <updated>1519931566988</updated>
       <workItem from="1519931581773" duration="15106000" />
-      <workItem from="1520032081321" duration="1157000" />
+      <workItem from="1520032081321" duration="1339000" />
+      <workItem from="1520461351984" duration="2362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16263000" />
+    <option name="totallyTimeSpent" value="18807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="687" y="63" width="1279" height="1300" extended-state="0" />
+    <frame x="348" y="58" width="1237" height="1300" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25822368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -475,136 +332,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/300x250_orng_365Night/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Banner.js" />
-    <entry file="file://$PROJECT_DIR$/app/300x250/index.html" />
-    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js" />
-    <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss" />
-    <entry file="file://$PROJECT_DIR$/app/300x250_orng_365Night/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_teal_DMs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_orng_Ghost/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="963">
-          <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_orng_DogFriendly/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="135" column="1" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_orng_365Night/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="963">
-          <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_orng_OtherPlaces/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="37" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_teal_Benefits/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_teal_BreakUp/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1695">
-          <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_teal_Swipe/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="963">
-          <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_teal_OffStreet/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="963">
-          <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_teal_DMs/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="963">
-          <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_orng_365Night/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_orng_DogFriendly/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_orng_Ghost/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_orng_OtherPlaces/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/300x250_teal_Benefits/scripts/Animation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -639,8 +366,244 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/300x250_teal_Swipe/scripts/Animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_365Night/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Banner.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/index.html" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss" />
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_365Night/scripts/Banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_Swipe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_OffStreet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_DMs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_BreakUp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_Benefits/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_OtherPlaces/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_Ghost/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_DogFriendly/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_365Night/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_DogFriendly/styles/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_Ghost/styles/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_Benefits/styles/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_OtherPlaces/styles/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_BreakUp/styles/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_DMs/styles/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_Swipe/styles/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_OffStreet/styles/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_365Night/styles/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_DogFriendly/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_Ghost/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_OtherPlaces/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_Benefits/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_BreakUp/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_DMs/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_OffStreet/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_teal_Swipe/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_orng_365Night/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="39" />
           <folding />
         </state>
       </provider>
