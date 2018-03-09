@@ -25,11 +25,9 @@ body {
         width: 100%;
     }
 
-    #curtain {
-        background: #ff6b44;
+    #bubble {
         position: absolute;
-        width: $banner-width;
-        height: $banner-height;
+        opacity:0;
     }
 
     #cta {
@@ -69,6 +67,7 @@ body {
         top: 39px;
         left: 278px;
         position: absolute;
+        opacity:0;
 
         #circle1 {
             top: 0px;
@@ -97,6 +96,8 @@ body {
         -webkit-border-radius: 6.5px;
         border-radius: 6.5px;
         position: absolute;
+        -webkit-transform: translate3d(0px,0px,0px);
+        opacity:0;
     }
 
     .triangle-border {

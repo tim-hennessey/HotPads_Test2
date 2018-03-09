@@ -10,14 +10,14 @@ app.Animation = (function () {
         cta_txt,
         cta_ovr_txt,
         buttonExit,
-        curtain;
+        loader;
 
 
     // --------------------------------------------------------------------------------------
     // set default properties
     function initialize() {
-        curtain = document.getElementById('curtain');
         bubble = document.getElementById('bubble');
+        loader = document.getElementById('loader');
         cta_txt = document.getElementById('cta_txt');
         cta_ovr_txt = document.getElementById('cta_ovr_txt');
         buttonExit = document.getElementById('button-exit');
@@ -43,9 +43,10 @@ app.Animation = (function () {
     // --------------------------------------------------------------------------------------
     // Starts the animation
     function start() {
-        tl.to(curtain, .5, {opacity:0})
-            .staggerFrom(circle, .5, {opacity: 0, repeat: 3, yoyo: true, delay: 0.25}, 0.25)
-            .from(bubble, .75, {height: 53, width: 99, ease: Elastic.easeOut.config(.3, .2)})
+        TweenMax.to(bubble, .25, {opacity:1});
+        TweenMax.to(loader, .25, {opacity:1});
+        tl.staggerTo(circle, .5, {opacity: 1, repeat: 3, yoyo: true}, 0.25)
+            .to(bubble, .75, {height: 95, width: 250, ease: Elastic.easeOut.config(.3, .2)})
             .to(txt1, .5, {opacity: 1, y: "-=10", x: "+=10", ease: Elastic.easeOut.config(.5, .2)}, "-=.7")
             .to(cta, .5, {opacity: 1}, "-=.75");
     }
